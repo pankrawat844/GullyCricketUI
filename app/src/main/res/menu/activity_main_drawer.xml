@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_add_tournament"
+            android:checkable="false"
+            android:icon="@drawable/ic_tablet"
+            android:title="@string/add_a_tournament" />
+        <item
+            android:id="@+id/nav_my_tournament"
+            android:checkable="false"
+            android:icon="@drawable/ic_trophy_small"
+            android:title="@string/my_tournaments" />
+    </group>
+
+    <group
+        android:id="@+id/group_2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_start_a_match"
+            android:checkable="false"
+            android:icon="@drawable/ic_coin"
+            android:title="@string/start_a_match_nav" />
+        <item
+            android:id="@+id/nav_my_matches"
+            android:checkable="false"
+            android:icon="@drawable/ic_cricket"
+            android:title="@string/my_matches" />
+
+        <item
+            android:id="@+id/nav_challenge"
+            android:checkable="false"
+            android:icon="@drawable/ic_match"
+            android:title="@string/challenge_for_a_match" />
+        <item
+            android:id="@+id/nav_my_teams"
+            android:checkable="false"
+            android:icon="@drawable/ic_team"
+            android:title="@string/my_teams" />
+        <item
+            android:id="@+id/nav_find_friends"
+            android:checkable="false"
+            android:icon="@drawable/ic_find_my_friend"
+            android:title="@string/find_friends" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:checkable="false"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:checkable="false"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+</menu>

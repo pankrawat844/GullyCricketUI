@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554106423553",
+    "firebase_url": "https://gullycricket-ac022.firebaseio.com",
+    "project_id": "gullycricket-ac022",
+    "storage_bucket": "gullycricket-ac022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554106423553:android:aa0a931bbf0f6a70",
+        "android_client_info": {
+          "package_name": "com.kliff.gullycricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554106423553-pc6p13slp0qpfc5151ekdlga6qv2kt3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kliff.gullycricket",
+            "certificate_hash": "8eccfc453ed32180cc48301c5ba8bbcb7d005e1e"
+          }
+        },
+        {
+          "client_id": "554106423553-u93dupq4u99to8gj3s46i6jm4agf8ek7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaqeVtq80fOCEyelPDXtNDhIrUqFWJP2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554106423553-u93dupq4u99to8gj3s46i6jm4agf8ek7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

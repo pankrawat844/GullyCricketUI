@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">GullyCricket</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <string name="upcoming_insights">Want to win this match? Explore</string>
+    <string name="info">Info</string>
+    <string name="round">Round</string>
+    <string name="view_insights">INSIGHTS</string>
+    <string name="squads">Squads</string>
+    <string name="menu_live_stream">Live Streaming</string>
+    <string name="close_of_play">Close Of Play</string>
+    <string name="match_notes">Match Notes</string>
+    <string name="match_officials">Match Officials</string>
+    <string name="tab_ball_type">Ball Type</string>
+    <string name="toss">Toss</string>
+    <string name="venue">Venue</string>
+    <string name="hint_date_and_time">Date &amp; Time</string>
+    <string name="tournament">Tournament</string>
+    <string name="match_type">Match Type</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="tournament_not_started">It seems you have not played any tournaments yet. You know, you can host your own tournament too!</string>
+    <string name="forward">Forward</string>
+    <string name="settings">Settings</string>
+    <string name="start_a_match">START A MATCH</string>
+    <string name="want_to_start_a_match">Want to start a match?</string>
+    <string name="search_team">First, try searching the team from Crick Love network. If you don\'t find it, you can add it from there. Team name has to be unique.</string>
+    <string name="add_a_tournament">Add A Tournament</string>
+    <string name="my_tournaments">My Tournaments</string>
+    <string name="my_matches">My Matches</string>
+    <string name="challenge_for_a_match">Challenge for a match</string>
+    <string name="my_teams">My Teams</string>
+    <string name="find_friends">Find Friends</string>
+    <string name="communicate">Communicate</string>
+    <string name="start_a_match_nav">Start a match</string>
+    <string name="filter">Filter</string>
+
+</resources>

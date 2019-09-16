@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="@color/match_team_b_bg_color" />
+
+    <stroke
+        android:width="2dp"
+        android:color="#98AFC7" />
+
+    <corners
+        android:radius="12dp" />
+
+</shape>

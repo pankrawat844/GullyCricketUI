@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="gray_text">#72797F</color>
+    <color name="light_cream">#ecdeba</color>
+    <color name="match_team_a_bg_color">#20282f</color>
+    <color name="match_info_bg_color">#10181F</color>
+    <color name="orange_dark">#dc8d00</color>
+    <color name="match_team_b_bg_color">#30393e</color>
+    <color name="light_green_background_color">#6cbaaa</color>
+    <color name="green_background_color">#14B493</color>
+    <color name="dark_cream">#E3B44C</color>
+    <color name="background_color">#F2F2F2</color>
+    <color name="background_color_old">#E7E8EA</color>
+    <color name="black_text">#2A373F</color>
+    <color name="dark_gray">#2A373F</color>
+    <color name="white_50_opacity">#80ffffff</color>
+    <color name="header_color">#A1A6AA</color>
+    <color name="gray">#A1A6AA</color>
+
+    <color name="tabs_background">#bd4233</color>
+    <color name="tab_text_color">#cf7f75</color>
+    <color name="tab_selected_text_color">#FFFFFF</color>
+    <color name="light_gray_color">#E0E0E0</color>
+    <color name="color_balck_text">#000000</color>
+
+
+</resources>
